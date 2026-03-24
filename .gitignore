@@ -1,0 +1,25 @@
+# Weather App – .env files
+.env
+.env.local
+.env*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+node_modules
+dist
+dist-ssr
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
